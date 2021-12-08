@@ -18,7 +18,7 @@ public class Main {
             System.out.println("That is not a valid answer.");}
 
         System.out.println("You enter a room. There is a door on the left and a door on the right. Would you like to 1- search the room? 2-" +
-                "move to the door on the left? or 3- move to the door on the right?");
+                "move to the door on the left? or 3- move to the door on the right? ");
 
 
 
